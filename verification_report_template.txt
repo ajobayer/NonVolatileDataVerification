@@ -1,0 +1,3 @@
+%header%<HTML><BODY><h1><u>NV Verification Result</u></h1><table border='1' cellspacing='0' cellpadding='2'><tr  bgcolor='gray'><th>NV ID</th><th>NV VALUE(input)</th><th>NV VALUE(in device)</th><th>NV NAME(input)</th><th>NV NAME(definition)</th><th>NV TYPE</th><th>RESULT</th></tr>
+%values%<tr><td>%d</td><td><font size='2' color='black'><div style='width: 420; word-wrap: break-word'>%s</div></td><td><font size='2' color='black'><div style='width: 420; word-wrap: break-word'>%s</div></td><td><font size='2' color='black'>%s</td><td><font size='2' color='black'>%s</td><td>%s</td><td>%s</td></tr>
+%footer%</table><h2>Summary: %s</h2></BODY></HTML>
